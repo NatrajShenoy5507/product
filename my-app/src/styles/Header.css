@@ -1,0 +1,70 @@
+*{
+  font-family: poppins;
+ 
+}
+header{
+ background-color: #ce0505;
+ height: 100px;
+ width: 100%;
+}
+
+ .Ellipse-2 {
+   position: absolute;
+   left: 100px;
+   top: 15px;
+   border-radius: 50%;
+   padding: 5px 15px;
+   background-color: #fff;
+   
+   
+ }
+ .e {
+   
+   font-family: Poppins;
+   font-size: 33px;
+   font-weight: 600;
+   color: #ce0505;
+   text-decoration: none;
+ }
+ .logsign{
+   position: absolute;
+   right: 80px;
+   top: 35px;
+ }
+ .Login {
+   color: white;
+   text-decoration: none;
+
+ }
+ .Create-an-account {
+   
+   font-family: Poppins;
+   line-height: 1.56;
+   letter-spacing: normal;
+   color: #fff;
+   text-decoration: none;
+   border: 1px solid white;
+   padding: 10px 10px;
+   border-radius: 5px;
+ }
+ .btnFacebook { 
+  width: 200px;
+  height:35px;  
+  border-radius: 4px;
+  background: #3b5998;
+  color:white;
+  border:0px transparent;  
+  text-align: center;
+  margin:5px;
+  display: inline-block;
+}
+.btnGoogle { 
+  margin:5px;
+  width: 200px;
+  height:35px;
+  border-radius: 4px;
+  background: #db3236;
+  color:white;
+  border:0px transparent;
+  text-align: center;
+}
